@@ -2,6 +2,10 @@ html, body, section, div {
   height: 100%;
 }
 
+body {
+ background-color: #3e5768;
+}
+
 section {
   color: #fff;
   font-family: sans-serif;
@@ -37,3 +41,11 @@ div {
 .right-half {
   background: #1d76b6;
 }
+
+footer {
+  color: #54d63e;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #a15ca8;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
