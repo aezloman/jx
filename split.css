@@ -45,7 +45,8 @@ div {
 footer {
   color: #54d63e;
   font-family: 'Montserrat', sans-serif;
-  background-color: #a15ca8;
+  webkit-center: center;
 }
 
+/* background-color: #a15ca8; */
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
